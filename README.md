@@ -7,6 +7,8 @@
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorElias2&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+
 <br clear="both"/>
 
 ##
