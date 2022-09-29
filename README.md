@@ -3,13 +3,13 @@
 ##
 
 <a href="https://github.com/VictorElias2">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=VictorElias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorElias2&layout=compact&langs_count=7&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorElias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorElias2&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
-<br clear="both"/>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&count=1)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&unique={true|1|on|yes})
 
 <br clear="both"/>
 
@@ -21,7 +21,20 @@
  * Analsys system for Fokz youtube channel
  * aProgram, a MS-DOS simulator
  
+#### Gamer
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+#### Like
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
+![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ##
+
+
 #### Learning in... <br>
 ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
@@ -34,13 +47,21 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### Working in... <br>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
 ##
-  
+ 
+ ![](https://komarev.com/ghpvc/?username=VictorElias2)
 <div>
   <a href = "https://twitter.com/Victor_Elias2"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://discordapp.com/users/680618168334549013"><img src="https://img.shields.io/badge/Discord-97ca00?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
