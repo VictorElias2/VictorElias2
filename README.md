@@ -1,4 +1,4 @@
-### Hello, I'm Victor Elias (also known as Viktoras)
+### Hello, I'm Victor Elias
 
 ##
 
