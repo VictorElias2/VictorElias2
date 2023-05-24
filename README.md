@@ -64,8 +64,6 @@
  ![](https://komarev.com/ghpvc/?username=VictorElias2)
 <div>
   <a href = "https://twitter.com/Victor_Elias2"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "https://discordapp.com/users/680618168334549013"><img src="https://img.shields.io/badge/Discord-97ca00?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorfalciroli966@gmail.com"><img src="https://img.shields.io/badge/Gmail-97ca00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorelias2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://steamcommunity.com/id/vithardgames/"><img src="https://img.shields.io/badge/Steam-97ca00?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
