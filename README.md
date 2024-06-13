@@ -18,7 +18,6 @@
 #### My Projects
  
  * System Management for MMotta company
- * Analsys system for Fokz youtube channel
  * aProgram, a MS-DOS simulator
  
 #### Gamer
