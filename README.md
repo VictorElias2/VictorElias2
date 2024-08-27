@@ -1,4 +1,7 @@
 ### Hello, I'm Victor Elias
+I'm an IT student at Fatec Americana and currently working on own projects and some freelancer jobs. Always working on code with focus on data analysis and web development.
+
+Well, at Fatec Americana I'm learning a lot of things such C and Kotlin (with Android Studio), and some PHP stuff. Normally I have some crazy ideas.
 
 ##
 
