@@ -7,14 +7,15 @@ Don't worry be happy and code.
 
 ##
 
-<a href="https://github.com/VictorElias2">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorElias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorElias2&layout=compact&langs_count=7&theme=dark"/>
-</a>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&count=1)
-
+<table>
+ <th><a href="https://github.com/VictorElias2">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorElias2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></th>
+  <th><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorElias2&layout=compact&langs_count=7&theme=dark"/>
+</a></th>
+ <th>
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&count=1)
+ </th>
+</table>
 
 <br clear="both"/>
 
