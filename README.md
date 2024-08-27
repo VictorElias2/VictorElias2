@@ -22,8 +22,9 @@ Don't worry be happy and code.
 
 #### My Projects
  
- * System Management for MMotta company
- * aProgram, a MS-DOS simulator
+ * System Management for MMotta company - finished.
+ * aProgram, a MS-DOS simulator - finished.
+ * Working on NoteClass (avaliable only for Fatec and Cruzeiro do Sul - SP... at moment) - developing.
  
 #### Gamer
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
