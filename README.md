@@ -3,6 +3,8 @@ I'm an IT student at Fatec Americana and currently working on own projects and s
 
 Well, at Fatec Americana I'm learning a lot of things such C and Kotlin (with Android Studio), and some PHP stuff. Normally I have some crazy ideas.
 
+Don't worry be happy and code.
+
 ##
 
 <a href="https://github.com/VictorElias2">
