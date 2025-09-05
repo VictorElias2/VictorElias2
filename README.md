@@ -54,7 +54,6 @@ Don't worry be happy and code.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -66,6 +65,5 @@ Don't worry be happy and code.
  ![](https://komarev.com/ghpvc/?username=VictorElias2)
 <div>
   <a href = "https://twitter.com/Victor_Elias2"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victorelias2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://steamcommunity.com/id/vithardgames/"><img src="https://img.shields.io/badge/Steam-97ca00?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorelias2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
