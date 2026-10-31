@@ -6,7 +6,7 @@ Well, at Fatec Americana I'm learning a lot of things such C and Kotlin (with An
 Don't worry be happy and code.
 
 ## Listening to...
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=21xzxoywg4qfkdm63zxrldr5y)![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&count=1)
+[Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21xzxoywg4qfkdm63zxrldr5y&count=1)
 
 ## How is it going?...
 <table border="0px">
